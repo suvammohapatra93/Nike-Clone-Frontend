@@ -5,7 +5,7 @@ This project is a clone of the official [Nike website](https://www.nike.com/), b
 ## Demo
 
 Check out the live demo of the project 
-
+[Here](https://nike-clone-frontend-dusky.vercel.app/)
 
 ## Table of Contents
 
@@ -113,6 +113,8 @@ Follow the instructions below to set up the project locally.
 ## My LinkedIN Profile:- [LinkedIN](https://www.linkedin.com/in/suvam-mohapatra-604486311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## My Twitter Handle:- [Twitter](https://x.com/SuvamMohapa1?t=cyBB-J6Z9ubGoFR8bMqpvw&s=09)
+
+## My GitHub Handle:- [GitHub](https://github.com/suvammohapatra93)
 
 ## All My Social Handles/Coding Profiles :- [Linktree](https://x.com/SuvamMohapa1?t=cyBB-J6Z9ubGoFR8bMqpvw&s=09)
 
